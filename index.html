@@ -93,6 +93,13 @@
          color: var(--muted); border-radius: 20px; padding: 1px 11px; font-size: 13px; margin-left: 6px; }
   .highlight { background: #f2fbf9; border: 1px solid #d3ece8; border-radius: 9px; padding: 16px 18px; margin-bottom: 20px; }
 
+  .about-grid { display: flex; gap: 28px; align-items: flex-start; }
+  .about-grid p { flex: 1 1 380px; }
+  .about-grid figure { flex: 0 0 250px; margin: 0; }
+  .about-grid figure img { width: 100%; border-radius: 10px; box-shadow: 0 4px 18px rgba(16,41,63,.14); }
+  .about-grid figcaption { font-size: 13px; color: var(--muted); margin-top: 8px; text-align: center; }
+  @media (max-width: 640px) { .about-grid { flex-direction: column; } .about-grid figure { flex-basis: auto; max-width: 320px; margin: 0 auto; } }
+
   .pills { display: flex; flex-wrap: wrap; gap: 10px; }
   .pill { background: var(--bg-soft); border: 1px solid var(--line); border-radius: 22px;
           padding: 6px 16px; font-size: 14.5px; color: var(--ink); }
@@ -138,13 +145,20 @@
 
   <section id="about">
     <h2>About</h2>
-    <p>I am a physician trained at Government Medical College and Hospital (GMCH), Chandigarh, where I
-    ranked 3rd in a class of 150 and held a four-year merit scholarship. I passed USMLE Step 1 in
-    November 2024 and am a certified BLS/ACLS provider (AHA). My research centres on clinical
-    pharmacology and drug safety — including PCSK9-inhibitor and statin safety signals,
-    pharmacovigilance using the FDA Adverse Event Reporting System, and the role of artificial
-    intelligence in clinical pharmacology — with peer-reviewed publications and a first-author oral
-    presentation at the British Pharmacological Society's Pharmacology 2024 meeting.</p>
+    <div class="about-grid">
+      <p>I am a physician trained at Government Medical College and Hospital (GMCH), Chandigarh, where I
+      ranked 3rd in a class of 150 and held a four-year merit scholarship. I passed USMLE Step 1 in
+      November 2024 and am a certified BLS/ACLS provider (AHA). My research centres on clinical
+      pharmacology and drug safety — including PCSK9-inhibitor and statin safety signals,
+      pharmacovigilance using the FDA Adverse Event Reporting System, and the role of artificial
+      intelligence in clinical pharmacology — with peer-reviewed publications and a first-author oral
+      presentation at the British Pharmacological Society's Pharmacology 2024 meeting.</p>
+      <figure>
+        <img src="assets/cleveland-clinic.jpg" alt="Dr. Saher Ahluwalia at the Cleveland Clinic main campus"
+             onerror="this.parentElement.style.display='none';">
+        <figcaption>At the Cleveland Clinic main campus, Cleveland, Ohio</figcaption>
+      </figure>
+    </div>
   </section>
 
   <section id="education">
