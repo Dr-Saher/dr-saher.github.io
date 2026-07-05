@@ -11,6 +11,7 @@
 <meta property="og:url" content="https://dr-saher.github.io/">
 <meta property="og:image" content="https://dr-saher.github.io/assets/dr-saher.jpg">
 <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="alternate icon" href="/favicon.ico" sizes="48x48 32x32 16x16">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
@@ -54,6 +55,22 @@
   a { color: var(--teal); text-decoration: none; }
   a:hover { text-decoration: underline; }
   .wrap { max-width: 780px; margin: 0 auto; padding: 0 22px; }
+
+  /* Sticky section nav */
+  .site-nav { position: sticky; top: 0; z-index: 50; background: rgba(255,255,255,.93);
+              backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);
+              border-bottom: 1px solid var(--line); }
+  .site-nav .wrap { display: flex; align-items: center; gap: 2px; overflow-x: auto;
+                    scrollbar-width: none; }
+  .site-nav .wrap::-webkit-scrollbar { display: none; }
+  .site-nav .brand { font-family: "Fraunces", Georgia, serif; color: var(--navy);
+                     font-weight: 600; font-size: 15.5px; padding: 14px 14px 14px 0;
+                     margin-right: auto; white-space: nowrap; }
+  .site-nav .brand:hover { color: var(--teal); text-decoration: none; }
+  .site-nav a.nl { color: var(--ink); font-size: 14px; font-weight: 500;
+                   padding: 14px 11px; white-space: nowrap; }
+  .site-nav a.nl:hover { color: var(--teal); text-decoration: none; }
+  section { scroll-margin-top: 58px; }
 
   /* Hero */
   header { background: var(--bg-soft); border-bottom: 1px solid var(--line); }
@@ -137,6 +154,7 @@
   }
   @media print {
     .cta { display: none; }
+    .site-nav { display: none; }
     header { background: #fff; }
     body { font-size: 12.5px; }
   }
@@ -144,7 +162,19 @@
 </head>
 <body>
 
-<header>
+<nav class="site-nav" aria-label="Section navigation">
+  <div class="wrap">
+    <a class="brand" href="#top">Dr. Saher Ahluwalia</a>
+    <a class="nl" href="#about">About</a>
+    <a class="nl" href="#education">Education</a>
+    <a class="nl" href="#honors">Honors</a>
+    <a class="nl" href="#publications">Publications</a>
+    <a class="nl" href="#research">Research</a>
+    <a class="nl" href="#contact">Contact</a>
+  </div>
+</nav>
+
+<header id="top">
   <div class="wrap">
     <div class="hero">
       <img class="portrait" src="assets/dr-saher.jpg" alt="Dr. Saher Ahluwalia"
