@@ -12,8 +12,6 @@ Chandigarh / Mohali, India · saherahluwalia249@gmail.com · <https://dr-saher.g
 
 **MBBS** — Government Medical College and Hospital (GMCH), Chandigarh, India · *August 2019 —*
 
-**USMLE Step 1** — Passed · *November 2024*
-
 ## Awards and Honours
 
 **Academic Scholarship**, GMCH Chandigarh · *2021–2024*
