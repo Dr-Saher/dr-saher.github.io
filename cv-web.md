@@ -1,5 +1,5 @@
 ---
-title: "Saher Ahluwalia, MBBS — Curriculum Vitae"
+title: "Saher Ahluwalia, MBBS Curriculum Vitae"
 geometry: margin=2.2cm
 fontsize: 11pt
 ---
@@ -10,18 +10,18 @@ Chandigarh / Mohali, India · saherahluwalia249@gmail.com · <https://dr-saher.g
 
 ## Education and Training
 
-**MBBS** — Government Medical College and Hospital (GMCH), Chandigarh, India · *August 2019 —*
+**MBBS** Government Medical College and Hospital (GMCH), Chandigarh, India · *August 2019 *
 
 ## Awards and Honours
 
 **Academic Scholarship**, GMCH Chandigarh · *2021–2024*
 Four-year merit scholarship for securing 3rd rank in a batch of 150 medical students in the MBBS first professional examinations.
 
-**Honors Distinction in Otolaryngology (ENT)**, GMCH Chandigarh · *March 2023* — University exam distinction, 80%
+**Honors Distinction in Otolaryngology (ENT)**, GMCH Chandigarh · *March 2023* University exam distinction, 80%
 
-**Honors Distinction in Biochemistry**, GMCH Chandigarh · *February 2021* — University exam distinction, 77.6%
+**Honors Distinction in Biochemistry**, GMCH Chandigarh · *February 2021* University exam distinction, 77.6%
 
-**Honors Distinction in Human Physiology**, GMCH Chandigarh · *February 2021* — University exam distinction, 76.3%
+**Honors Distinction in Human Physiology**, GMCH Chandigarh · *February 2021* University exam distinction, 76.3%
 
 ## Certifications
 
@@ -29,13 +29,13 @@ Four-year merit scholarship for securing 3rd rank in a batch of 150 medical stud
 
 ## Professional Memberships
 
-- American Association of Clinical Endocrinology — Member · *March 2025 –*
-- Medical Students' Association of India — Member · *March 2021 –*
-- American College of Physicians — Member · *March 2021 –*
+- American Association of Clinical Endocrinology Member · *March 2025 –*
+- Medical Students' Association of India Member · *March 2021 –*
+- American College of Physicians Member · *March 2021 –*
 
 ## Research Experience
 
-**Research Elective: Introduction to Systematic Reviews** — GMCH Chandigarh · *April 2023*
+**Research Elective: Introduction to Systematic Reviews** GMCH Chandigarh · *April 2023*
 Supervisor: Dr. Harmanjit Singh · 2 weeks, 48 hours/week.
 Collaborated with the research team on multiple projects: literature review writing, data collection, research protocol implementation, data analysis, and journal submissions (including *Expert Review of Clinical Pharmacology*).
 
@@ -60,17 +60,17 @@ Beyond the pill box: A cross-sectional study of antidiabetic medication adherenc
 
 ## Volunteer Experience and Leadership Roles
 
-**Menstrual Hygiene Drive** — Bair Majra, India · *June 2024*
+**Menstrual Hygiene Drive** Bair Majra, India · *June 2024*
 With The Rotaract Club, Chandigarh; awareness sessions for girls aged 9–11.
 
-**Editor-in-Chief** — Newsletter, Indian Association for Adolescent Health (IAAH), Chandigarh Branch · *May–June 2024*
+**Editor-in-Chief** Newsletter, Indian Association for Adolescent Health (IAAH), Chandigarh Branch · *May–June 2024*
 
-**Blood Donation Camp** — GMCH Chandigarh · *April 2023* — Organising role and donor motivation.
+**Blood Donation Camp** GMCH Chandigarh · *April 2023* Organising role and donor motivation.
 
-**Eye Donation Awareness Walk** — Sukhna Lake, Chandigarh · *August 2022* — With Eye Bank, GMCH.
+**Eye Donation Awareness Walk** Sukhna Lake, Chandigarh · *August 2022* With Eye Bank, GMCH.
 
 ## Language Proficiency
 
-- English — TOEFL 113 (R30 L29 S27 W27), March 2025
+- English TOEFL 113 (R30 L29 S27 W27), March 2025
 - Hindi
 - Punjabi
