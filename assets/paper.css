@@ -54,3 +54,19 @@ section.blk h2{font-size:22px;padding-bottom:9px;border-bottom:2px solid var(--l
 footer{margin-top:50px;border-top:1px solid var(--line);padding:24px 0 40px;
   color:var(--muted);font-size:14px;text-align:center}
 @media (max-width:560px){header.paper h1{font-size:25px}.pdfframe{height:560px}}
+
+/* ===== dark mode (matches index.html palette) ===== */
+:root{color-scheme:light;}
+html[data-theme="dark"]{
+  --navy:#8fd3ff;--teal:#4fd6c9;--ink:#dbe6ee;--muted:#93a6b3;
+  --line:#22333f;--bg:#0b1720;--bg-soft:#111f2b;color-scheme:dark;
+}
+html[data-theme="dark"] .topbar{background:rgba(11,23,32,.92);}
+html[data-theme="dark"] .badge-journal{background:#16283a;color:#8fd3ff;}
+html[data-theme="dark"] .badge-year{background:var(--bg-soft);}
+html[data-theme="dark"] .badge-oa{background:#12301f;color:#5fd39a;}
+html[data-theme="dark"] .pub-links a{background:var(--bg-soft);}
+html[data-theme="dark"] .pub-links a.primary,html[data-theme="dark"] .pub-links a.primary:hover{color:#0b1720;}
+html[data-theme="dark"] .callout{background:#10241f;border-color:#1d4038;color:var(--ink);}
+html[data-theme="dark"] .cite{background:var(--bg-soft);}
+body{transition:background .25s ease,color .25s ease;}
